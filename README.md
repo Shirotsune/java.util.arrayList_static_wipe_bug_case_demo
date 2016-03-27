@@ -9,7 +9,7 @@ If the bug occurs the print of the fields are:
 * TestList: 0
 * Bug verified!
 
-If it is clean then the print of the fields are:
+If it is working as intended then the print of the fields are:
 
 * Test: 42 
 * TestList:1 
