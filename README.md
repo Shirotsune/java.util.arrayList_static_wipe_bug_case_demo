@@ -5,11 +5,11 @@ Guess it is NOT working as intended.
 
 If the bug occurs the print of the fields are:
 
-Test: 42
-TestList: 0
+*Test: 42 
+*TestList: 0
+*Bug verified!
 
 If it is clean then the print of the fields are:
 
-Test: 42
-
-TestList: 1
+*Test: 42 
+*TestList:1 
